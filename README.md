@@ -1,5 +1,3 @@
 Prototypes
 ==========
-3d world exploring
-3d world loading
-Multyplayer chat
+3d world and multyplayer chat

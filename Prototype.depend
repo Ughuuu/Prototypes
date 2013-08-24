@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1377345094 source:c:\users\estar\documents\github\prototypes\main.cpp
+	"SFML/System.hpp"
+	"SFML/Graphics.hpp"
+	"SFML/Network.hpp"
+	"SFML/OpenGL.hpp"
+	"SFML/window.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<cmath>
+	<fstream>
+	"include/math.h"
+	<cstring>
+
+1375701783 source:c:\users\estar\documents\github\prototypes\src\model.cpp
+	"../include/model.h"
+	<GL/gl.h>
+	<string.h>
+
+1375702565 c:\users\estar\documents\github\prototypes\include\model.h
+	<vector>
+	<string>
+	<glm/glm.hpp>
+	"SFML/Graphics.hpp"
+
+1377257327 source:c:\users\estar\documents\github\prototypes\src\math.cpp
+	"../include/math.h"
+	<cmath>
+	<iostream>
+
+1377257327 c:\users\estar\documents\github\prototypes\include\math.h
+	<vector>
+	"SFML/System/Vector2.hpp"
+	"SFML/System/Vector3.hpp"
+
