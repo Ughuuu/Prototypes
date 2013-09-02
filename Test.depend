@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1377956987 source:/home/estar/Ubuntu One/Projects/Test/main.cpp
+	"SFML/System.hpp"
+	"SFML/Graphics.hpp"
+	"SFML/Network.hpp"
+	"SFML/Window.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<cmath>
+	<fstream>
+	"include/math.h"
+	<cstring>
+
+1377437250 /home/estar/Ubuntu One/Projects/Test/include/math.h
+	<vector>
+	"SFML/System/Vector2.hpp"
+	"SFML/System/Vector3.hpp"
+
+1377437250 source:/home/estar/Ubuntu One/Projects/Test/src/math.cpp
+	"../include/math.h"
+	<cmath>
+	<iostream>
+
+1377956987 source:/home/estar/Ubuntu One/c++/Test/main.cpp
+	"SFML/System.hpp"
+	"SFML/Graphics.hpp"
+	"SFML/Network.hpp"
+	"SFML/Window.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<cmath>
+	<fstream>
+	"include/math.h"
+	<cstring>
+
+1377437250 /home/estar/Ubuntu One/c++/Test/include/math.h
+	<vector>
+	"SFML/System/Vector2.hpp"
+	"SFML/System/Vector3.hpp"
+
+1377437250 source:/home/estar/Ubuntu One/c++/Test/src/math.cpp
+	"../include/math.h"
+	<cmath>
+	<iostream>
+
+1377956987 source:/home/estar/Github/Prototypes/main.cpp
+	"SFML/System.hpp"
+	"SFML/Graphics.hpp"
+	"SFML/Network.hpp"
+	"SFML/Window.hpp"
+	"SFML/Audio.hpp"
+	<iostream>
+	<cmath>
+	<fstream>
+	"include/math.h"
+	<cstring>
+
+1377437250 /home/estar/Github/Prototypes/include/math.h
+	<vector>
+	"SFML/System/Vector2.hpp"
+	"SFML/System/Vector3.hpp"
+
+1377437250 source:/home/estar/Github/Prototypes/src/math.cpp
+	"../include/math.h"
+	<cmath>
+	<iostream>
+

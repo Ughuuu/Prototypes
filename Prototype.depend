@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1377345208 source:c:\users\estar\documents\github\prototypes\main.cpp
+1377682776 source:c:\users\estar\documents\github\prototypes\main.cpp
 	"SFML/System.hpp"
 	"SFML/Graphics.hpp"
 	"SFML/Network.hpp"
@@ -23,12 +23,12 @@
 	<glm/glm.hpp>
 	"SFML/Graphics.hpp"
 
-1377257327 source:c:\users\estar\documents\github\prototypes\src\math.cpp
+1377437250 source:c:\users\estar\documents\github\prototypes\src\math.cpp
 	"../include/math.h"
 	<cmath>
 	<iostream>
 
-1377257327 c:\users\estar\documents\github\prototypes\include\math.h
+1377437250 c:\users\estar\documents\github\prototypes\include\math.h
 	<vector>
 	"SFML/System/Vector2.hpp"
 	"SFML/System/Vector3.hpp"

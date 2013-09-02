@@ -7,7 +7,8 @@
 
 extern float EPSILON,
        Cos[360],
-       Sin[360];
+       Sin[360],
+       deg2rad;
 
 ///Vectors
 //{

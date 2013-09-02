@@ -6,7 +6,8 @@ using namespace std;
 
 float EPSILON=1e-10,
        Cos[360],
-       Sin[360];
+       Sin[360],
+       deg2rad = 0.0174532925;
 
 ///debug
 //{
@@ -251,9 +252,9 @@ float sqdist(V3 p1 , V3 p2) {
 ///M2
 //{
 M2::M2() {
-    m[0]=0;
+    m[0]=1;
     m[1]=0;
-    m[2]=0;
+    m[2]=1;
     m[3]=0;
 }
 M2::M2(float a[4]) {
@@ -360,7 +361,8 @@ M2 M2::shearx(float x) {
                       0 ,1);
 }
 M2 M2::rot(float a) {
-    return (*this)*M2(cos(a) ,-sin(a),
+    a*=deg2rad;
+    return M2(cos(a) ,-sin(a),
                       sin(a) ,cos(a));
 }
 //}
