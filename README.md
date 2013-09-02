@@ -1,3 +1,3 @@
 Prototypes
 ==========
-3d world and multyplayer chat
+2d world and multyplayer chat
